@@ -1,0 +1,16 @@
+# example folder
+#
+example/
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
